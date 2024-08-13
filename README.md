@@ -1,6 +1,10 @@
 # Question-Quiz-Microservice
  This is a project to demonstrate microservices, Eureka, Load balancing, OpenFeign, Routing
  
+ # Eureka Server 
+ 
+ Use this URL to access Eureka - http://localhost:8761
+ 
  # Use the following URLs for testing in Postman
  
  To Add data in Quiz table - http://localhost:8081/quiz (POST)
